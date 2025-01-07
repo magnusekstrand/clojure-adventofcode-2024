@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+profiles.clj
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/.prepl-port
+.hgignore
+.hg/
+**/.calva/repl.calva-repl
+/.calva/
+/.clj-kondo/
+/.idea/
+/.lsp/
+/clojure-adventofcode-2024.iml
